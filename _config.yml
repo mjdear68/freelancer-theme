@@ -51,7 +51,7 @@ social:
     url: https://mjdear68.github.io/
   - title: linkedin
     url: https://www.linkedin.com/in/mjdear68
-  - title: email
+  - title: gmail
     url: mailto:mjdear68@gmail.com
 
 # Postal address (add as many lines as necessary)
@@ -60,7 +60,7 @@ address:
   - line: Australia
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'This site is based on the Freelancer Jekyll theme by <a href="https://github.com/jeromelachaud/freelancer-theme">Jerome Lachaud</a>.'
 
 # Build settings
 markdown: kramdown
