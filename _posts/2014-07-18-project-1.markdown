@@ -1,11 +1,11 @@
 ---
 layout: default
 modal-id: 1
-date: 2014-07-18
-img: cabin.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+date: 2024-07-21
+img: project_1.png
+alt: False colour compositie image of the Hunter River Estuary, NSW, Australia, September 2003
+project-date: July 2024
+client: Birdlife Australia
+category: Remote Sensing; Land Cover Mapping
+description: Hunter River Estuary, NSW, Australia. False colour composite using the Near Infrared, Shortwave Infrared and Red bands from Landsat 5, September 2003.
 ---
