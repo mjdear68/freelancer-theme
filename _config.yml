@@ -34,7 +34,7 @@ color:
 footer:
   copyright: Michael Dear
   # location: Location
-  social: Around the Web
+  social: Links
   credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
@@ -49,10 +49,15 @@ social:
   #   url: http://bitbucket.org/jekyll
   - title: github
     url: https://mjdear68.github.io/
+  - title: linkedin
+    url: https://www.linkedin.com/in/mjdear68
+  - title: email
+    url: mailto:mjdear68@gmail.com
+
 # Postal address (add as many lines as necessary)
-# address:
-#   - line: Blue Mountains NSW
-#   - line: Australia
+address:
+  - line: New South Wales
+  - line: Australia
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
