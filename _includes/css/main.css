@@ -27,19 +27,6 @@ a.active {
     color: #fff;	
 }
 
-section a{
-	color:#fff;
-	text-decoration: underline;
-}
-a:hover{
-	color:#ccc;
-}
-a:focus,
-a:active,
-a.active {
-    outline: 0;
-    color: #fff;	
-}
 
 h1,
 h2,
@@ -200,6 +187,21 @@ section.success {
     color: #fff;
     background: #{{ site.color.primary }};
 }
+
+section a{
+	color:#fff;
+	text-decoration: underline;
+}
+a:hover{
+	color:#ccc;
+}
+a:focus,
+a:active,
+a.active {
+    outline: 0;
+    color: #fff;	
+}
+
 
 @media(max-width:767px) {
     section {
