@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 6
+date: 2024-07-01
+img: project_6.png
+alt: Unsupervised machine learning applied to the Hunter River Estuary, NSW
+project-date: April 2024
+client: 
+category: Remote Sensing; Land Cover Mapping; Machine Learning
+description: Unsupervised machine learning techniques can be useful as a part of exploratory data analysis. Kmeans clustering was applied to the Hunter River Estuary dataset to produce this image which was then used to guide the development of land cover classes for this complex study area.
+---
