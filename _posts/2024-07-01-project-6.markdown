@@ -3,9 +3,9 @@ layout: default
 modal-id: 6
 date: 2024-07-01
 img: project_6.png
-alt: Unsupervised machine learning applied to the Hunter River Estuary, NSW
+alt: Shortwave infrared, Near infrared, Red false colour composite image, Mudgee NSW
 project-date: April 2024
 client: 
-category: Remote Sensing; Land Cover Mapping; Machine Learning
-description: Unsupervised machine learning techniques can be useful as a part of exploratory data analysis. Kmeans clustering was applied to the Hunter River Estuary dataset to produce this image which was then used to guide the development of land cover classes for this complex study area.
+category: Remote Sensing; Land Cover Mapping; Visualisation
+description: This false colour composite image was produced as a part of a study of land cover change in the Mudgee region for the period 2004 to 2023. The image identifies a number of land cover classes such as forest, grassland, crops, and urban development.
 ---
