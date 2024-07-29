@@ -1,8 +1,8 @@
 ---
 layout: default
-modal-id: 1
-date: 2024-07-06
-img: project_1.png
+modal-id: 3a
+date: 2024-07-03 00:00:10
+img: project_3a.png
 alt: False colour compositie image of the Hunter River Estuary, NSW, Australia, September 2003
 project-date: July 2024
 client: Birdlife Australia

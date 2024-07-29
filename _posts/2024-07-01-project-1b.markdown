@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 1b
+date: 2024-07-01 00:00:20
+img: project_1b.png
+alt: Machine learning classification map, Mudgee NSW
+project-date: April 2024
+client: 
+category: Remote Sensing; Land Cover Mapping; Machine Learning; Change Detection
+description: Applying a machine learning algorithm (Support Vector Machine) to the Mudgee NSW remote sensing dataset for 2023 produced this land cover classification map. Urban areas are pink, wooded areas dark green and crops are mid-green. A map for the study area in 2004 was produced using the same techniques, then the two maps were compared to produce a matrix of class changes. Information such as this is useful in detecting urban growth and changes to rural land use.
+---

@@ -1,8 +1,8 @@
 ---
 layout: default
-modal-id: 2
-date: 2024-07-05
-img: project_2.png
+modal-id: 2a
+date: 2024-07-02 00:00:10
+img: project_2a.png
 alt: Urban Greenness Map
 project-date: July 2024
 client: 

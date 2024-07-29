@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 2c
+date: 2024-07-02 00:00:30
+img: project_2c.png
+alt: Urban Greenness Map
+project-date: July 2024
+client: 
+category: Urban Development; Remote Sensing; Land Cover Monitoring; Geospatial Analysis
+description: 
+---

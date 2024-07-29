@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 1c
+date: 2024-07-01 00:00:30
+img: project_1c.png
+alt:  Mudgee NSW Class change map 2004 to 2023.
+project-date: April 2024
+client: 
+category: Remote Sensing; Land Cover Mapping; Visualisation
+description: The class change matrix for the two classification maps was used to produce this plot showing the main areas of change between 2004 and 2023. Red areas represent grassland that became non-vegetated, probably due to urban expansion. Green areas are where grassland became crops, and purple areas are where crops became grassland. Information such as this is useful for urban planning and monitoring rural land use.
+---

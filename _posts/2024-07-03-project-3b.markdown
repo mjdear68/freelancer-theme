@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 3b
+date: 2024-07-03 00:00:20
+img: project_3b.png
+alt: Hunter River Estuary, NSW, Australia, September 2003
+project-date: July 2024
+client: Birdlife Australia
+category: Remote Sensing; Land Cover Mapping
+description: Hunter River Estuary, NSW, Australia. 
+---
