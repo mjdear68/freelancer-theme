@@ -7,5 +7,5 @@ alt: Shortwave infrared, Near infrared, Red false colour composite image, Mudgee
 project-date: April 2024
 client: 
 category: Remote Sensing; Land Cover Mapping; Visualisation
-description: This false colour composite image was produced as a part of a study of land cover change in the Mudgee region for the period 2004 to 2023. The image identifies a number of land cover classes such as forest, grassland, crops, and urban development.
+description: This false colour composite image was produced as a part of a study of land cover change in the Mudgee region of NSW for the period 2004 to 2023. The image identifies a number of land cover classes such as forest, grassland, crops, and urban development.
 ---

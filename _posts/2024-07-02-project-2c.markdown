@@ -7,5 +7,5 @@ alt: Urban Greenness Map
 project-date: July 2024
 client: 
 category: Urban Development; Remote Sensing; Land Cover Monitoring; Geospatial Analysis
-description: 
+description: The greenness maps for January 2023 and January 2024 for the suburb were subtracted to produce a difference dataset. From this data a map was developed to indicate the positions were relatively strong reducations in greenness have occurred. Strong decreases in greenness are likely to be due to the removal of vegetation. This map can be filtered to provide the locations of larger areas of greenness loss for land cover monitoring purposes.
 ---

@@ -7,5 +7,5 @@ alt: Hunter River Estuary, NSW, Australia, September 2003
 project-date: July 2024
 client: Birdlife Australia
 category: Remote Sensing; Land Cover Mapping
-description: Hunter River Estuary, NSW, Australia.  
+description: The two classification maps were compared to produce a complete class change matrix from which this plot was derived. The coloured areas were found to have changed to developed from other land cover classes. The expansion of urban and industrial development is particularly evident along the southern and northern edges of the study area.
 ---

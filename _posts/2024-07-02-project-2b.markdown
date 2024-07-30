@@ -7,5 +7,5 @@ alt: Urban Greenness Map
 project-date: July 2024
 client: 
 category: Urban Development; Remote Sensing; Land Cover Monitoring; Geospatial Analysis
-description:
+description: In this map, only the properties with an area of less than 2000 square metres were compared. Patterns of higher and lower greenness are evident. High-resolution imagery and ground truth inspection can be used to develop and test hypotheses regarding the observed patterns. This information can be invaluable for planning and monitoring purposes.
 ---

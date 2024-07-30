@@ -7,5 +7,5 @@ alt: Urban Greenness Map
 project-date: July 2024
 client: 
 category: Urban Development; Remote Sensing; Land Cover Monitoring; Geospatial Analysis
-description: A remote sensing change detection technique was applied to a suburban area and then combined with a property boundary geospatial dataset to produce this map which displays the change in greenness for each land parcel over a twelve-month period. Oranges and reds indicate a stronger reduction in greenness relative to the average for the area, whereas green shades indicate a larger increase than the average. The red dots indicate positions where there has been a strong decrease in greenness, possibly due to the removal of vegetation. This map would be of value to councils and other organisations responsible for monitoring land cover change.
+description: This project combined satellite remote sensing data with a property boundary geospatial dataset to give a greenness classification to each property in this suburb of the Blue Mountains, NSW for January 2024. Oranges and reds indicate a lower greenness relative to the other properties in the study area, whereas darker greens indicate relatively higher greenness. 
 ---

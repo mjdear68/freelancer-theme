@@ -7,5 +7,5 @@ alt: Hunter River Estuary, NSW, Australia, September 2003
 project-date: July 2024
 client: Birdlife Australia
 category: Remote Sensing; Land Cover Mapping
-description: Hunter River Estuary, NSW, Australia. 
+description: Various machine learning techniques were investigated for their performance classifying the land cover in the Hunter River Estuary. The Random Forest classifier was found to give the best results on the test data and also when applied to the area as a whole. The blue line represents the boundary of the official study area. This map is for September 2023.
 ---
